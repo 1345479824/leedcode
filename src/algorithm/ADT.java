@@ -2,9 +2,6 @@ package algorithm;
 
 import java.util.Arrays;
 
-/*
-  并查集
- */
 public class ADT {
 
     public void init(int parent[]){
